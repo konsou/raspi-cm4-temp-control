@@ -1,0 +1,3 @@
+[submodule "raspi-cm4-ioboard-fan"]
+	path = raspi-cm4-ioboard-fan
+	url = https://github.com/konsou/raspi-cm4-ioboard-fan
